@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+   <result>
+      <author>
+         <last>Abiteboul</last>
+         <first>Serge</first>
+      </author>
+      <number>1</number>
+   </result>
+   <result>
+      <author>
+         <last>Buneman</last>
+         <first>Peter</first>
+      </author>
+      <number>1</number>
+   </result>
+   <result>
+      <author>
+         <last>Stevens</last>
+         <first>W.</first>
+      </author>
+      <number>2</number>
+   </result>
+   <result>
+      <author>
+         <last>Suciu</last>
+         <first>Dan</first>
+      </author>
+      <number>1</number>
+   </result>
+</results>

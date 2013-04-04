@@ -1,0 +1,20 @@
+Exercice1 :
+	La requête parcourt tous les livres dont l'auteur est "Addison-Wesley".
+	
+	2 -
+	La requête parcourt tous les livres et crée un XML suivant le schéma :
+
+	3 -
+	La requête sélectionne tous les auteurs (en retirant les doublons) puis parcourt tous les livres de cet auteur.
+	
+	4 -
+	Résultat identique. La différence entre ces deux fichiers est une fonction "books-by-author".
+	
+	5 -
+	La requête sélectionne tous les livres ayant au moins un auteur.
+	
+	6 -
+	La requête sélectionne tous les auteurs (en retirant les doublons) puis compte le nombre de livres de ces auteurs.
+	
+	7 -
+	La requête sélectionne les années des livres (en retirant les doublons) puis regroupe les livres de ces années afin de calculer la moyenne de prix.
