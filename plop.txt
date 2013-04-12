@@ -1,0 +1,171 @@
+ Utilisation de la mécanographie en Europe à la veille de la Seconde Guerre mondiale
+
+En 1935 un rapport estime que 3 500 machines sont installées aux États-Unis,
+ et environ la moitié pour l'ensemble de l'Europe, avec des parcs significatifs en Angleterre et Allemagne. 
+La France tient la 3e place européenne, loin derrière les deux premiers, avec quelques centaines de machines,
+ pratiquement toutes importées (la Compagnie des Machines Bull n'a encore qu'une quinzaine de clients).
+ Belgique, Suisse, Italie, Roumanie, Russie sont très loin derrière. Près de 90 % du parc français installé
+ est constitué de machines Hollerith. Les gros consommateurs sont les compagnies d'assurances, 
+les sociétés de chemins de fer (en particulier pour la gestion de la maintenance : stocks de pièces détachées et
+ suivi des travaux en atelier), les banques, certaines administrations publiques (finances, douanes, intérieur),
+ et les grands industriels. L'armée en revanche est très en retard, en particulier par rapport à l'armée allemande 
+(qui saura mobiliser ses troupes avec tout leur équipement et leur armement au complet avant la fin 1939 grâce à 
+ses applications mécanographiques opérationnelles avant 1935, alors que l'armée française n'aura pas encore fini
+ de mobiliser correctement en mai 1940, l'État-Major n'ayant pas compris l'intérêt de telles applications)1, 2.
+
+
+ 	  	  	  	
+
+Pour les entreprises, cette période (1931 à 1959) voit la floraison des équipements à cartes perforées ou à fiches.
+Mais au cœur des labos de recherche le futur ordinateur prend forme.
+	 
+  	  	  	  	  	 
+m 	Bull 	
+
+1931
+	  	Tabulatrice T30 commercialisée par H.W. Egli Bull --> photo 	Itinér , (2,6)
+m 	Bull 	
+
+1931
+	  	Dispositif d'impression de K.A. Knutsen, partenaire de Bull, :
+roues porte-caractères, 120 lignes par minutes ! 	Itinér
+m 	IBM 	
+
+1931
+	  	Dehomag, succursale allemande de IBM, construit une tabulatrice qui peut faire les multiplications. 	Lars Heide p124
+  	Bull 	
+
+1932
+	  	Les papeteries Aussedat entrent au capital de Egli-Bull, s'assurant ainsi un marché pour leurs cartes perforées. 	site Alain Aussedat
+  	Bull 	
+
+1932
+	  	Dispositif d'impression de K.A. Knutsen, partenaire de Bull, :
+roues porte-caractères, 120 lignes par minutes ! 	 
+m 	IBM 	1932 	  	Première calculatrice IBM, la 601, qui peut lire 2 nombres dans une carte et en perforer l'addition ou la multiplication dans une troisième zone.de la même carte. 	Lars Heide p124
+m 	IBM 	1933 	  	Première reproductrice IBM de cartes perforées. 	HUC
+m 	IBM 	1933 	  	Apparition du code Hollerith, lequel représente chaque lettre par deux 
+perforations dans une colonne de carte perforée, plus quelques caractères spéciaux.
+ Les 10 chiffres restent représentés par la perforation dans la ligne correspondante. 	Lars Heide p123
+  	Bull 	
+
+1933, mars
+	  	Naissance de la Compagnie des Machines Bull (CMB) 	Itinér
+m 	Bull 	
+
+1934
+	  	Bloc d'impression alphanumérique AN7 de CMB 	Itinér
+  	  	
+
+1935
+	  	Création de Fujitsu, avec l'aide technologique de Siemens. ("ji" = "si" en japonais)
+Les deux sociétés collaboreront en informatique à partir des années 70 	GN
+m 	IBM 	
+
+1935
+	  	IBM introduit le calculateur IBM 601, qui lit des cartes et perfore des résultats.
+1.500 ex seront vendus ! 	Mark Brader
+m 	  	
+
+1935
+	  	Alan Turing conçoit une machine simple qui permet via sa configuration (programmation) de résoudre tous les problèmes de calcul. 	FEB Actualités n° 38
+m 	  	
+
+1936
+	  	Machine de Burack, première mach. logique électrique. (Roosevelt College,
+Chicago) ;Elle permettait de tester des syllogismes 	Gardner
+m 	IBM 	1937 	  	Première interclasseuse IBM de cartes perforées 	HUC
+m 	Bull 	1937 	  	La Cie des Machine Bull commercialise sa tabulatrice BS120, qui comporte deux inovations : la soustraction et le tableau de connexion amovible 	Bull, Saga
+m 	  	
+
+1938
+	  	En Allemagne, Zuse termine son premier prototype de calculateur électronique
+programmable, il s'appellera le Z1et travaille en virgule flottante sur 16 bits.
+L'appareil souffre deb problèmes de fiabilité. 	Mark Brader
+  	B 	
+
+1939
+	  	Création de Capestat , dir Beyaert, pour fournir des cartes perf aux clients belges
+Une carte valait 40 centimes belges à cette époque 	HR date ?
+  	  	
+
+1939
+	  	Au bureau du chiffrage polonais, on met au point une machine électro-mécanique,
+la "Bomba", destinée à déchiffrer le code allemand "Enigma".
+Les allemands répondront en sophistiquant leur code, mais les polonais passeront
+leur découverte aux anglais en juin 1939. 	Mark Brader
+  	HP 	
+
+1939
+	  	Bill Hewlett et Dave Packard lancent leur entreprise à Palo Alto (future Silicon V.)
+Construction de systèmes d'oscillateurs pour sonorisation de films 	 
+m 	  	
+
+1939
+	  	A l'Iowa State University, John V. Atanasoff et Clifford Berry font tourner un prototype de calculateur digital : C'est l'"ABC", dont le principe sera repris et étendu dans l'ENIAC. 	FEB Actualités n°41
+  	B 	
+
+1939, déc
+	  	Création de la Société Belge des Machines Bull, place du Congrès
+Wackers est à la direction. Capital : 1 million francs belges. 	AP, HR
+m 	  	
+
+1940 jan
+	  	Au labo Bell, George Stibitz met en route son "ModelI Complex Number I Calculator", qui est généralement considéré comme le premier calculateur digital opérationnel. Ce calculateur servira jusqu'en 1949 ! 	Enc. Britanica
+m 	T 	
+
+1940
+	  	Premiers circuits imprimés. 	Itinér
+m 	  	
+
+1940
+	  	Howard Aiken à l'unif de Harvard, avec aide de IBM, crée une machine électro-mécanique, avec entrée du programme et des données par bande perforée. --> + infos. Cette machine sera terminée qu'en début 1944. 	Encarta (3,1) FEB Act 44
+  	B 	
+
+1940, mai
+	  	L'Allemagne envahit la Belgique, la Hollande, le Luxembourg. 	 
+  	T 	
+
+1940
+	  	George Stibitz transmet un problm math. à résoudre sur un calculateur installé chez Bell, à N.Y., depuis Dartmouth college (Hanover), via un télétype, et reçoit les résultats par cette voie. Première application du télétraitement ! 	Enc. Britanica
+m 	  	
+
+1940
+	  	Suivant les conceptions d'Allan Turing, des machines électro-mécaniques, les Bombes, servent ai décriptage des messages codés par les allemands sur Enigma. 	FEB Actualités n°36
+m 	Bull 	
+
+1941
+	  	Tabulatrice BS de Bull, avec tableau de connexion amovible et cycles indépendants ! -->infos et photo 	Itinér, (3,2)
+  	  	  	  	  	 
+m 	  	
+
+1941
+	  	Z3 : Premier calculateur électromécanique numérique électro-méc.exploitable
+Il est commandé par un programme, entré comme les données par bandes de
+.film perforées. C. Zuse a concu le Z3 sur base de l'expérience du Z1. 	SIE
+Mark Brader
+m 	T 	
+
+1942
+	  	Premières diodes au germanium. 	Itinér
+m 	  	
+
+1942
+	  	C. Zuse construit le premier calculateur de contrôle de processus, le "S1".
+Il servira au contrôle des bombes volantes. 	Mark Brader
+m 	  	
+
+1943
+	  	Williams et Stibitz achèvent un calculateur programmable à relais : leur Model II 	Mark Brader
+m 	  	
+
+1943 dec
+	  	Premier de la série des 10 "Colossus", construits aux UK (Bletchley Park) pour la défense.
+Il comporte 2.500 tubes électroniques et des lecteurs de bande perforées. ---> + infos 	Mark Brader
+FEB Actualités n°36
+m 	IBM 	
+
+1944 aout
+	  	MARK I, le plus grand calculateur électromécanique, est livré à l'unif de Harvard. Prototype basé sur théorie d' Allan Turing. Aussi appelé ASCC. Il pesait 5 tonnes !
+Entrée des données par bande perf ou cartes. Séparation des mémoires données et programme.
+Conçu par H. H. Aiken aidé d'un team d' IBM.
